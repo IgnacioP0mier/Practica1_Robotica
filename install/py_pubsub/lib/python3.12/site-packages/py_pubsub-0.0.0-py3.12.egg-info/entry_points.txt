@@ -1,0 +1,4 @@
+[console_scripts]
+sensor = py_pubsub.sensor:main
+sensorsub = py_pubsub.sensorsub:main
+state = py_pubsub.state:main
